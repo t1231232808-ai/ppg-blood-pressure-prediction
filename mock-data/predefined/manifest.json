@@ -1,0 +1,162 @@
+[
+  {
+    "mock_id": "mock_001",
+    "name": "正常血压样本A",
+    "description": "模拟正常血压波形，SBP~120",
+    "sbp": 120,
+    "dbp": 78,
+    "filename": "mock_001.csv"
+  },
+  {
+    "mock_id": "mock_002",
+    "name": "正常血压样本B",
+    "description": "模拟正常血压波形，SBP~115",
+    "sbp": 115,
+    "dbp": 75,
+    "filename": "mock_002.csv"
+  },
+  {
+    "mock_id": "mock_003",
+    "name": "偏高血压样本A",
+    "description": "模拟偏高血压波形，SBP~135",
+    "sbp": 135,
+    "dbp": 84,
+    "filename": "mock_003.csv"
+  },
+  {
+    "mock_id": "mock_004",
+    "name": "高血压样本A",
+    "description": "模拟高血压波形，SBP~145",
+    "sbp": 145,
+    "dbp": 90,
+    "filename": "mock_004.csv"
+  },
+  {
+    "mock_id": "mock_005",
+    "name": "低血压样本A",
+    "description": "模拟低血压波形，SBP~100",
+    "sbp": 100,
+    "dbp": 64,
+    "filename": "mock_005.csv"
+  },
+  {
+    "mock_id": "mock_006",
+    "name": "正常血压样本C",
+    "description": "模拟正常血压波形，SBP~118",
+    "sbp": 118,
+    "dbp": 76,
+    "filename": "mock_006.csv"
+  },
+  {
+    "mock_id": "mock_007",
+    "name": "正常血压样本D",
+    "description": "模拟正常血压波形，SBP~122",
+    "sbp": 122,
+    "dbp": 79,
+    "filename": "mock_007.csv"
+  },
+  {
+    "mock_id": "mock_008",
+    "name": "偏高血压样本B",
+    "description": "模拟偏高血压波形，SBP~132",
+    "sbp": 132,
+    "dbp": 82,
+    "filename": "mock_008.csv"
+  },
+  {
+    "mock_id": "mock_009",
+    "name": "偏高血压样本C",
+    "description": "模拟偏高血压波形，SBP~138",
+    "sbp": 138,
+    "dbp": 86,
+    "filename": "mock_009.csv"
+  },
+  {
+    "mock_id": "mock_010",
+    "name": "高血压样本B",
+    "description": "模拟高血压波形，SBP~150",
+    "sbp": 150,
+    "dbp": 92,
+    "filename": "mock_010.csv"
+  },
+  {
+    "mock_id": "mock_011",
+    "name": "低血压样本B",
+    "description": "模拟低血压波形，SBP~96",
+    "sbp": 96,
+    "dbp": 60,
+    "filename": "mock_011.csv"
+  },
+  {
+    "mock_id": "mock_012",
+    "name": "正常血压样本E",
+    "description": "模拟正常血压波形，SBP~124",
+    "sbp": 124,
+    "dbp": 78,
+    "filename": "mock_012.csv"
+  },
+  {
+    "mock_id": "mock_013",
+    "name": "正常血压样本F",
+    "description": "模拟正常血压波形，SBP~110",
+    "sbp": 110,
+    "dbp": 70,
+    "filename": "mock_013.csv"
+  },
+  {
+    "mock_id": "mock_014",
+    "name": "偏高血压样本D",
+    "description": "模拟偏高血压波形，SBP~130",
+    "sbp": 130,
+    "dbp": 81,
+    "filename": "mock_014.csv"
+  },
+  {
+    "mock_id": "mock_015",
+    "name": "高血压样本C",
+    "description": "模拟高血压波形，SBP~155",
+    "sbp": 155,
+    "dbp": 94,
+    "filename": "mock_015.csv"
+  },
+  {
+    "mock_id": "mock_016",
+    "name": "低血压样本C",
+    "description": "模拟低血压波形，SBP~102",
+    "sbp": 102,
+    "dbp": 66,
+    "filename": "mock_016.csv"
+  },
+  {
+    "mock_id": "mock_017",
+    "name": "正常血压样本G",
+    "description": "模拟正常血压波形，SBP~116",
+    "sbp": 116,
+    "dbp": 74,
+    "filename": "mock_017.csv"
+  },
+  {
+    "mock_id": "mock_018",
+    "name": "偏高血压样本E",
+    "description": "模拟偏高血压波形，SBP~140",
+    "sbp": 140,
+    "dbp": 88,
+    "filename": "mock_018.csv"
+  },
+  {
+    "mock_id": "mock_019",
+    "name": "高血压样本D",
+    "description": "模拟高血压波形，SBP~160",
+    "sbp": 160,
+    "dbp": 96,
+    "filename": "mock_019.csv"
+  },
+  {
+    "mock_id": "mock_020",
+    "name": "正常血压样本H",
+    "description": "模拟正常血压波形，SBP~125",
+    "sbp": 125,
+    "dbp": 79,
+    "filename": "mock_020.csv"
+  }
+]
